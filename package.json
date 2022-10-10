@@ -1,0 +1,36 @@
+{
+  "name": "sconix-theme-22",
+  "displayName": "Sconix Theme 22",
+  "description": "Sconix Theme 2022!",
+  "version": "0.0.1",
+  "publisher": "SCONIX",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/SCONIX-official/SconixTheme22"
+  },
+  "keywords": [
+	"Sconix theme 22",
+	"Sconix",
+	"Dark theme",
+	"Theme",
+	"neon theme",
+	"dark",
+	"new theme",
+	"Theme"
+  ],
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sconix Theme Dark 22",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sconix Theme Dark 22-color-theme.json"
+      }
+    ]
+  }
+}

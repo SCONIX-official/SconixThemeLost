@@ -778,7 +778,7 @@
 			"name": "Tags",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#cc646ce5"
+				"foreground": "#CC646CE5"
 			}
 		},
 		{
@@ -829,7 +829,7 @@
 			"name": "Units",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#c16fb3"
+				"foreground": "#edededaa"
 			}
 		},
 		{
@@ -1916,7 +1916,7 @@
 		"input.placeholderForeground": "#a6a6a6",
 		"textLink.foreground": "#3bffb6",
 		"editor.background": "#0d0d0d",
-		"editor.foreground": "#caf1d2e3",
+		"editor.foreground": "#c4c3c3db",
 		"editorLineNumber.foreground": "#858585",
 		"editorCursor.foreground": "#aeafad",
 		"editorCursor.background": "#000000",
@@ -2098,5 +2098,5 @@
 		"editorGutter.commentRangeForeground": "#c5c5c5",
 		"debugExceptionWidget.background": "#333333",
 		"debugExceptionWidget.border": "#474747"
-	 }
+	}
 }
